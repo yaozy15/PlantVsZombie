@@ -1,0 +1,75 @@
+﻿生成启动时间为 2016/9/11 22:35:42。
+     1>项目“G:\PlantVsZombie\game_window\game_window\game_window.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing game_controller.h...
+         Moc'ing game_player.h...
+         Moc'ing game_plant.h...
+         Moc'ing game_sun.h...
+       ClCompile:
+         D:\2345下载\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2012\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.1\5.5\msvc2012\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2012\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2012\include\QtWidgets /IC:\Qt\Qt5.5.1\5.5\msvc2012\include\QtMultimedia /IC:\Qt\Qt5.5.1\5.5\msvc2012\include\QtMultimediaWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_game_car.cpp GeneratedFiles\Debug\moc_game_controller.cpp GeneratedFiles\Debug\moc_game_message.cpp GeneratedFiles\Debug\moc_game_plant.cpp GeneratedFiles\Debug\moc_game_player.cpp GeneratedFiles\Debug\moc_game_slot.cpp GeneratedFiles\Debug\moc_game_sun.cpp GeneratedFiles\Debug\moc_game_weapon.cpp GeneratedFiles\Debug\moc_game_window.cpp GeneratedFiles\Debug\moc_game_zombie.cpp game_car.cpp game_clear.cpp game_controller.cpp game_message.cpp game_plant.cpp game_player.cpp game_screen.cpp game_slot.cpp game_sun.cpp game_weapon.cpp game_window.cpp game_zombie.cpp main.cpp
+         moc_game_car.cpp
+         moc_game_controller.cpp
+         moc_game_message.cpp
+         moc_game_plant.cpp
+         moc_game_player.cpp
+         moc_game_slot.cpp
+         moc_game_sun.cpp
+         moc_game_weapon.cpp
+         moc_game_window.cpp
+         moc_game_zombie.cpp
+         game_car.cpp
+         game_clear.cpp
+         game_controller.cpp
+         game_message.cpp
+         game_plant.cpp
+         game_player.cpp
+         game_screen.cpp
+         game_slot.cpp
+         game_sun.cpp
+         game_weapon.cpp
+         正在生成代码...
+         正在编译...
+         game_window.cpp
+         game_zombie.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         D:\2345下载\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\PlantVsZombie\game_window\Win32\Debug\\game_window.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.1\5.5\msvc2012\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5Multimediad.lib Qt5MultimediaWidgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\PlantVsZombie\game_window\Win32\Debug\game_window.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\PlantVsZombie\game_window\Win32\Debug\game_window.lib" /MACHINE:X86 /SAFESEH Debug\game_button.obj
+         Debug\game_car.obj
+         Debug\game_clear.obj
+         Debug\game_controller.obj
+         Debug\game_end.obj
+         Debug\game_gif.obj
+         Debug\game_map.obj
+         Debug\game_message.obj
+         Debug\game_plant.obj
+         Debug\game_player.obj
+         Debug\game_screen.obj
+         Debug\game_slot.obj
+         Debug\game_sun.obj
+         Debug\game_weapon.obj
+         Debug\game_window.obj
+         Debug\game_zombie.obj
+         Debug\moc_game_button.obj
+         Debug\moc_game_car.obj
+         Debug\moc_game_controller.obj
+         Debug\moc_game_end.obj
+         Debug\moc_game_gif.obj
+         Debug\moc_game_map.obj
+         Debug\moc_game_message.obj
+         Debug\moc_game_plant.obj
+         Debug\moc_game_player.obj
+         Debug\moc_game_screen.obj
+         Debug\moc_game_slot.obj
+         Debug\moc_game_sun.obj
+         Debug\moc_game_weapon.obj
+         Debug\moc_game_window.obj
+         Debug\moc_game_zombie.obj
+         Debug\qrc_game_window.obj
+         Debug\main.obj
+         game_window.vcxproj -> G:\PlantVsZombie\game_window\Win32\Debug\game_window.exe
+     1>已完成生成项目“G:\PlantVsZombie\game_window\game_window\game_window.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:03:27.41
